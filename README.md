@@ -17,3 +17,5 @@ npm update
 php artisan key:generate
 ``````
 # BubbleTea
+
+Une fan de Bubble a ouvert son BubbleTea Shop et elle souhaite qu'on lui propose un site pour vendre ses BubbleTea
